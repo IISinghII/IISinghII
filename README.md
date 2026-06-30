@@ -4,6 +4,22 @@ Engineering leader and builder. I'm designing DUCP — an open protocol to make 
 democratized, sustainable abundance that can power the next wave of intelligence.
 
 <p align="center">
+  <a href="https://github.com/ducp-protocol">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ducp-protocol/ducp-spec/main/brand/ducp-logo-horizontal-dark.png">
+      <img alt="DUCP — Decentralized Universal Compute Protocol" src="https://raw.githubusercontent.com/ducp-protocol/ducp-spec/main/brand/ducp-logo-horizontal.png" height="76">
+    </picture>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/ducp-protocol/ducp-spec/tree/main/quant">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ducp-protocol/ducp-spec/main/brand/quant-logo-horizontal-dark.png">
+      <img alt="The Quant (ℚ) — Computational Energy Efficiency" src="https://raw.githubusercontent.com/ducp-protocol/ducp-spec/main/brand/quant-logo-horizontal.png" height="76">
+    </picture>
+  </a>
+</p>
+
+<p align="center">
   <a href="https://github.com/ducp-protocol/ducp-spec/blob/main/whitepaper/DUCP_White_Paper_v0.2.0.pdf"><img src="https://img.shields.io/badge/DUCP%20White%20Paper-v0.2.0%20(RFC)-1F4E79?style=for-the-badge" alt="DUCP White Paper v0.2.0 (RFC)"></a>
   <a href="https://github.com/ducp-protocol/ducp-spec/blob/main/quant/Quant_Standard_v0.1.0.pdf"><img src="https://img.shields.io/badge/The%20Quant%20(%E2%84%9A)-v0.1.0%20(RFC)-2E8B57?style=for-the-badge" alt="The Quant (ℚ) v0.1.0 (RFC)"></a>
 </p>
